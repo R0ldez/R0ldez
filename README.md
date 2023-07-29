@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @R0ldez
 - 👀 I’m interested in developement and game
 - 🌱 I’m currently learning c++ / html / css / bash / SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 R0ldez/R0ldez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
